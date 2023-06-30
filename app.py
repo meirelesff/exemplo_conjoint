@@ -9,12 +9,12 @@ st.set_page_config(page_title="Tabelas de conjoint",
 
 # Atributos e levels do conjoint
 attributes = {
-    "Sexo": ["Homem", "Mulher", "Transsexual"],
+    "Sexo": ["Homem", "Mulher"],
     "Cor/raça": ["Branca", "Parda", "Preta", "Amarela/Indígena"],
     "Religião": ["Católica", "Evangélica", "Sem religião", "Umbanda"],
     "Orientação sexual": ["Heterossexual", "LGBT"],
-    "Experiência na política": ["Ex-prefeito(a)", "Ex-vereador(a)", "Ex-deputado(a)", "Nenhuma"],
-    "Apoio político": ["Tem o apoio do(a) atual prefeito(a)", "Tem o apoio do governador", "Tem o apoio da comunidade", "Tem apoio da igreja", "Não tem apoios"],
+    "Experiência na política": ["Nenhuma", "Ex-vereador(a)", "Ex-deputado(a)"],
+    "Apoio político": ["Nenhum", "Tem o apoio do(a) atual prefeito(a)", "Tem o apoio do governador", "Tem o apoio da comunidade"],
     "Pena de morte": ["É a favor da pena de morte", "É contra a pena de morte"],
 }
 
