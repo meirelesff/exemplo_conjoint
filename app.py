@@ -14,7 +14,7 @@ attributes = {
     "Religião": ["Católica", "Evangélica", "Sem religião", "Umbanda"],
     "Orientação sexual": ["Heterossexual", "LGBT"],
     "Experiência na política": ["Nenhuma", "Ex-vereador(a)", "Ex-deputado(a)"],
-    "Apoio político": ["Nenhum", "Tem o apoio do(a) atual prefeito(a)", "Tem o apoio do governador", "Tem o apoio da comunidade"],
+    "Apoio político": ["Nenhum", "Tem o apoio de políticos da cidade", "Tem o apoio do governo estadual", "Tem o apoio da associação de moradores"],
     "Pena de morte": ["É a favor da pena de morte", "É contra a pena de morte"],
 }
 
